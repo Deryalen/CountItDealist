@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\CountIt!\CountIt!\bin\Debug\CountIt!.exe.config
+c:\users\user\documents\visual studio 2015\Projects\CountIt!\CountIt!\bin\Debug\CountIt!.exe
+c:\users\user\documents\visual studio 2015\Projects\CountIt!\CountIt!\bin\Debug\CountIt!.pdb
+c:\users\user\documents\visual studio 2015\Projects\CountIt!\CountIt!\obj\Debug\CountIt!.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\CountIt!\CountIt!\obj\Debug\CountIt_.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\CountIt!\CountIt!\obj\Debug\CountIt_.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\CountIt!\CountIt!\obj\Debug\CountIt!.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\CountIt!\CountIt!\obj\Debug\CountIt!.exe
+c:\users\user\documents\visual studio 2015\Projects\CountIt!\CountIt!\obj\Debug\CountIt!.pdb
